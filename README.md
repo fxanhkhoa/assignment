@@ -25,8 +25,9 @@ MongoDB
 
 # assignment
 - **Create a CRUD API in BE for movie**
-ID | NAME | IMAGE_URL | IS_DELETED
-:---: | :---: | :---: | :---:
+
+ID | NAME | IMAGE_URL | IS_DELETED |
+:---: | :---: | :---: | :---: |
 |random UUID or text | black panther | http://localhost:3000/image/<image> | false
 |random UUID or text | captain america | http://localhost:3000/image/<image> | false
 |random UUID or text | hulk | http://localhost:3000/image/<image> | false
